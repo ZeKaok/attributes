@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.AssemblyInfo.cs
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\bin\Debug\net7.0\AttributeBTKOrnek.exe
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\bin\Debug\net7.0\AttributeBTKOrnek.deps.json
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\bin\Debug\net7.0\AttributeBTKOrnek.runtimeconfig.json
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\bin\Debug\net7.0\AttributeBTKOrnek.dll
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\bin\Debug\net7.0\AttributeBTKOrnek.pdb
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.dll
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\refint\AttributeBTKOrnek.dll
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.pdb
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\AttributeBTKOrnek.genruntimeconfig.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeBTKOrnek\AttributeBTKOrnek\obj\Debug\net7.0\ref\AttributeBTKOrnek.dll
